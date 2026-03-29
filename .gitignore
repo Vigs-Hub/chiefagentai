@@ -1,0 +1,9 @@
+# Ignore everything in the workspace root
+*
+
+# Except these Next.js files
+!app/
+!package.json
+!next.config.js
+!tsconfig.json
+!.gitignore
