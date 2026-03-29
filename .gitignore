@@ -3,7 +3,9 @@
 
 # Except these Next.js files
 !app/
+!app/**
 !package.json
 !next.config.js
 !tsconfig.json
 !.gitignore
+!vercel.json
